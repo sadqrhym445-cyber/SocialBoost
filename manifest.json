@@ -1,0 +1,11 @@
+{
+  "name": "SocialBoost - نمو حقيقي",
+  "short_name": "SocialBoost",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1225",
+  "theme_color": "#10182f",
+  "description": "أدوات تسويق عضوي لصناع المحتوى وأصحاب المشاريع."
+}
